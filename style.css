@@ -50,6 +50,16 @@
     left: 200px;
 
   }
+  .medio-circulo{
+    width: 400px; 
+    height: 190px; 
+    top: calc(60%);
+    left: calc(60%);
+    background-color: #FA7436; 
+    border-radius: 0 0 200px 200px; 
+    position: absolute; 
+    scale: 120%;
+  }
   .imgAvion2{
     position: absolute;
     left: calc(75%);
